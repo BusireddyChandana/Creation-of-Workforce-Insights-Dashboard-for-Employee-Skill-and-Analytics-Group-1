@@ -911,3 +911,10 @@ User             React Component           API Service          FastAPI Endpoint
 - **`lucide-react`**: Clean icon system.
 - **`motion`**: High performance animations.
 - **`axios`**: HTTP request library with response interceptors.
+
+
+
+
+
+
+https://ai-workforce-management-system-1-8cxu.onrender.com/
